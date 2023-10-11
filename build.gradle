@@ -97,7 +97,7 @@ ext.deps = [
         metricsCore         : 'io.dropwizard.metrics:metrics-core:3.1.0',
         metricsJvm          : 'io.dropwizard.metrics:metrics-jvm:3.1.0',
         mockito             : 'org.mockito:mockito-core:2.10.0',
-        mysqlConnector      : 'mysql:mysql-connector-java:5.1.28',
+        mysqlConnector      : 'mysql:mysql:mysql-connector-java:8.0.20',
         quartz              : 'org.quartz-scheduler:quartz:2.2.1',
         restliGenerator     : 'com.linkedin.pegasus:generator:' + versions.restli,
         restliServer        : 'com.linkedin.pegasus:restli-server:' + versions.restli,
